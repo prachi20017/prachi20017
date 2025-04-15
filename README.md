@@ -5,8 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Improving my data storytelling skills and building interactive dashboards using Power BI and real-world datasets.
-**
+- 🔭 I’m currently working on **Improving my data storytelling skills and building interactive dashboards using Power BI and real-world datasets**
 - 🌱 I’m currently learning **Power BI, Python for Data Analysis, and SQL**
 - 💬 Ask me about **Data analysis, Python, SQL, Data cleaning, Visualizations, Power BI, and my favorite datasets!**
 - 📫 How to reach me: **upadhyayprachi9@gmail.com**
